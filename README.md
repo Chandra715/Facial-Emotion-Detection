@@ -1,6 +1,6 @@
 # Face Emotion Recognition
 
-A recruiter-friendly, GitHub-ready deep learning project for multi-class facial emotion recognition using TensorFlow/Keras. This project trains a Convolutional Neural Network (CNN) on grayscale facial images and classifies expressions into seven emotion categories.
+A deep learning project for multi-class facial emotion recognition using TensorFlow/Keras. This project trains a Convolutional Neural Network (CNN) on grayscale facial images and classifies expressions into seven emotion categories.
 
 ## Project Overview
 
